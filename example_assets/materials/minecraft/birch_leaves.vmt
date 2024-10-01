@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"			"minecraft/birch_leaves"
+	"$alphatest"			1
+	"$surfaceprop"			"foliage"
+	"%keywords" 			"minecraft"
+}

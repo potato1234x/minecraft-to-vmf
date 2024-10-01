@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/minecraft/grass"
+	"$surfaceprop"			"grass"
+	"%compilepassbullets"	1
+	"$alphatest"			1
+}
