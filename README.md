@@ -1,6 +1,9 @@
 # Minecraft to VMF
 A python script to convert minecraft chunks into VMF files.
 
+## !! WARNING !!
+THIS SCRIPT NEEDS THE "anvil-new" PACKAGE, NOT "anvil" IT WILL NOT WORK IF YOU USE NORMAL ANVIL!!
+
 ## Usage
 This is a python script, find a tutorial on how to install python and run the .bat file to start.
 
